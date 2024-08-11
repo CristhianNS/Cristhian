@@ -7,5 +7,5 @@ Tenha um ótimo dia.
 
 <div>
 <img src="https://github.com/user-attachments/assets/b91b1b07-497b-4e1c-a611-ab1fc338be78" height="400 width="300">
-
-</div>
+<div/>  
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CristhianNS&show_icons=true&theme=radical)
